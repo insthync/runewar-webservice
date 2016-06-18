@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="Attack_Back_01"  x="0" y="0" width="150" height="150" />
+<SubTexture name="Attack_Back_02"  x="151" y="0" width="150" height="150" />
+<SubTexture name="Attack_Back_03"  x="302" y="0" width="150" height="150" />
+<SubTexture name="Attack_Back_04"  x="0" y="151" width="150" height="150" />
+<SubTexture name="Attack_Back_05"  x="151" y="151" width="150" height="150" />
+<SubTexture name="Attack_Back_06"  x="0" y="302" width="150" height="150" />
+<SubTexture name="Attack_Back_07"  x="151" y="302" width="150" height="150" />
+<SubTexture name="Attack_Back_08"  x="302" y="151" width="150" height="150" />
+<SubTexture name="Attack_Back_09"  x="302" y="302" width="150" height="150" />
+<SubTexture name="Attack_Front_01"  x="453" y="0" width="150" height="150" />
+<SubTexture name="Attack_Front_02"  x="453" y="151" width="150" height="150" />
+<SubTexture name="Attack_Front_03"  x="604" y="0" width="150" height="150" />
+<SubTexture name="Attack_Front_04"  x="453" y="302" width="150" height="150" />
+<SubTexture name="Attack_Front_05"  x="604" y="151" width="150" height="150" />
+<SubTexture name="Attack_Front_06"  x="755" y="0" width="150" height="150" />
+<SubTexture name="Attack_Front_07"  x="755" y="151" width="150" height="150" />
+<SubTexture name="Attack_Front_08"  x="604" y="302" width="150" height="150" />
+<SubTexture name="Attack_Front_09"  x="755" y="302" width="150" height="150" />
+<SubTexture name="Attack_Left_01"  x="0" y="453" width="150" height="150" />
+<SubTexture name="Attack_Left_02"  x="151" y="453" width="150" height="150" />
+<SubTexture name="Attack_Left_03"  x="0" y="604" width="150" height="150" />
+<SubTexture name="Attack_Left_04"  x="302" y="453" width="150" height="150" />
+<SubTexture name="Attack_Left_05"  x="151" y="604" width="150" height="150" />
+<SubTexture name="Attack_Left_06"  x="0" y="755" width="150" height="150" />
+<SubTexture name="Attack_Left_07"  x="151" y="755" width="150" height="150" />
+<SubTexture name="Attack_Left_08"  x="453" y="453" width="150" height="150" />
+<SubTexture name="Attack_Left_09"  x="302" y="604" width="150" height="150" />
+<SubTexture name="Attack_Right_01"  x="604" y="453" width="150" height="150" />
+<SubTexture name="Attack_Right_02"  x="453" y="604" width="150" height="150" />
+<SubTexture name="Attack_Right_03"  x="302" y="755" width="150" height="150" />
+<SubTexture name="Attack_Right_04"  x="604" y="604" width="150" height="150" />
+<SubTexture name="Attack_Right_05"  x="453" y="755" width="150" height="150" />
+<SubTexture name="Attack_Right_06"  x="755" y="453" width="150" height="150" />
+<SubTexture name="Attack_Right_07"  x="755" y="604" width="150" height="150" />
+<SubTexture name="Attack_Right_08"  x="604" y="755" width="150" height="150" />
+<SubTexture name="Attack_Right_09"  x="755" y="755" width="150" height="150" />
+</TextureAtlas>

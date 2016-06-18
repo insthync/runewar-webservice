@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- General information -->
+	<avatar>Fighter</avatar>
+	<description></description>
+	<icon>textures/characters/ep01/Fighter/lobby/Icon.png</icon>
+	<status>textures/characters/ep01/Fighter/lobby/Status.png</status>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+	<!-- Abilities of character -->
+	<ability
+		strength="3"
+		agility="3"
+		intelligent="1"
+		will="2"
+		luck="3"
+		atkrange="100"
+		atktype="phy"
+	/>
+	<!-- offset position of an effects -->
+	<offset
+		floor="0"
+		effect="0"
+		damage="0"
+	/>
+	<!-- An animation information -->
+	<!-- Key 0 = idle, 1 = run, 2 = attack, 3 = lobby -->
+	<animation
+		key="0"
+		atlas="textures/characters/ep01/Fighter/Idle_Sprite.xml"
+		texture="textures/characters/ep01/Fighter/Idle_Sprite.png"
+		fps="12"
+	/>
+	<animation
+		key="1"
+		atlas="textures/characters/ep01/Fighter/Run_Sprite.xml"
+		texture="textures/characters/ep01/Fighter/Run_Sprite.png"
+		fps="12"
+	/>
+	<animation
+		key="2"
+		atlas="textures/characters/ep01/Fighter/Attack_Sprite.xml"
+		texture="textures/characters/ep01/Fighter/Attack_Sprite.png"
+		fps="12"
+	/>
+	<animation
+		key="3"
+		atlas="textures/characters/ep01/Fighter/lobby/Fighter_Sprite.xml"
+		texture="textures/characters/ep01/Fighter/lobby/Fighter_Sprite.png"
+		fps="12"
+	/>
+</root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:dbda1176da019adb3bce4ed51d59cbb0$ -->
+<TextureAtlas imagePath="Mage_Sprite.png">
+    <SubTexture name="Idle_Front_01" x="564" y="0" width="282" height="306" frameX="-75" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Front_02" x="282" y="0" width="282" height="306" frameX="-75" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Front_03" x="0" y="306" width="280" height="306" frameX="-77" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Front_04" x="558" y="306" width="278" height="306" frameX="-79" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Front_05" x="280" y="306" width="278" height="306" frameX="-79" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Front_06" x="0" y="0" width="282" height="306" frameX="-75" frameY="-86" frameWidth="450" frameHeight="450"/>
+    <SubTexture name="Idle_Lobby_01" x="612" y="1012" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_02" x="464" y="1012" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_03" x="770" y="824" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_04" x="774" y="624" width="150" height="200" frameX="-43" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_05" x="624" y="612" width="150" height="200" frameX="-43" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_06" x="474" y="612" width="150" height="200" frameX="-43" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_07" x="316" y="818" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_08" x="622" y="812" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_Lobby_09" x="474" y="812" width="148" height="200" frameX="-44" frameY="-33" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_01" x="158" y="612" width="158" height="208" frameX="-40" frameY="-28" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_02" x="0" y="612" width="158" height="208" frameX="-40" frameY="-28" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_03" x="316" y="612" width="158" height="206" frameX="-40" frameY="-30" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_04" x="836" y="416" width="158" height="208" frameX="-40" frameY="-28" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_05" x="846" y="208" width="158" height="208" frameX="-40" frameY="-28" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Idle_See_06" x="846" y="0" width="158" height="208" frameX="-40" frameY="-28" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

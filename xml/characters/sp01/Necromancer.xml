@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- General information -->
+	<avatar>Necromancer</avatar>
+	<description>จ้าวแห่งอาคมจากแดนตะวันตก</description>
+	<icon>textures/characters/sp01/Necromancer/lobby/Icon.png</icon>
+	<status>textures/characters/sp01/Necromancer/lobby/Status.png</status>
+	<price 
+		gold="-1"
+		crystal="39"
+	/>
+	<!-- Abilities of character -->
+	<ability
+		strength="1"
+		agility="2"
+		intelligent="4"
+		will="3"
+		luck="2"
+		atkrange="200"
+		atktype="mag"
+	/>
+	<!-- offset position of an effects -->
+	<offset
+		floor="0"
+		effect="0"
+		damage="0"
+	/>
+	<!-- An animation information -->
+	<!-- Key 0 = idle, 1 = run, 2 = attack, 3 = lobby -->
+	<animation
+		key="0"
+		atlas="textures/characters/sp01/Necromancer/Idle_Sprite.xml"
+		texture="textures/characters/sp01/Necromancer/Idle_Sprite.png"
+		fps="8"
+	/>
+	<animation
+		key="1"
+		atlas="textures/characters/sp01/Necromancer/Run_Sprite.xml"
+		texture="textures/characters/sp01/Necromancer/Run_Sprite.png"
+		fps="12"
+	/>
+	<animation
+		key="2"
+		atlas="textures/characters/sp01/Necromancer/Attack_Sprite.xml"
+		texture="textures/characters/sp01/Necromancer/Attack_Sprite.png"
+		fps="8"
+	/>
+	<animation
+		key="3"
+		atlas="textures/characters/sp01/Necromancer/lobby/Necromancer_Sprite.xml"
+		texture="textures/characters/sp01/Necromancer/lobby/Necromancer_Sprite.png"
+		fps="8"
+	/>
+</root>

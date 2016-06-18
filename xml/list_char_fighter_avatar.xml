@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatars>
+	<avatar
+		id="1"
+		path="xml/characters/ep01/Fighter.xml"
+	/>
+	<avatar
+		id="2"
+		path="xml/characters/sp01/Assasin.xml"
+	/>
+</avatars>

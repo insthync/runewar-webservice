@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Blessing</skill>
+	<description>อวยพรให้ทหารทั้งหมดฮึกเหิม เพิ่ม STR/AGI/INT อย่างละ 2 หน่วยให้กับทหารทั้งหมด</description>
+	<icon>textures/characters/ep01/Hermit/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>

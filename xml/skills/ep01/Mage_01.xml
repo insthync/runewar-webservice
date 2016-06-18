@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Malediction</skill>
+	<description>สาปส่งศัตรูให้เสียพลังชีวิต ชั่วระยะเวลาหนึ่ง</description>
+	<icon>textures/characters/ep01/Mage/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>

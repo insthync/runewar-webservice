@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Double Attack</skill>
+	<description>เพิ่มโอกาส 50% ที่จะจู่โจมศัตรูสองครั้งติด</description>
+	<icon>textures/characters/ep01/Fighter/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>

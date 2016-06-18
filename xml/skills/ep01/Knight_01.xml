@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Resolution</skill>
+	<description>เพิ่มโอกาส 50% ในการป้องการโจมตีจากศัตรู</description>
+	<icon>textures/characters/ep01/Knight/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>

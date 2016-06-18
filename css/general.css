@@ -1,0 +1,222 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	min-height: 100%;
+}
+
+body {
+	/*
+	background-image: url(../images/play_background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: auto 100%;
+	*/
+}
+
+#container {
+	padding: 0;
+	/*height: 100%;*/
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#swfcontainer {
+	background-color: #000;
+	background-image:url('../textures/logo.png');
+	background-repeat:no-repeat;
+	background-position:center center; 
+	width: 960px;
+	height: 640px;
+}
+
+#preloader {
+	color: #fff;
+	width: 960px;
+	text-align: center;
+	position: relative;
+	top: 600px;
+}
+
+.unseen_position {
+	position: fixed;
+	left: -9999px;
+}
+
+.clear {
+	float: none;
+	clear: both;
+}
+
+.top_menu {
+	background-color: #000;
+	margin: 0;
+	padding: 0;
+	width: 960px;
+	height: 30px;
+	overflow: auto;
+}
+
+.footer {
+	overflow: hidden;
+	height: 102px;
+}
+
+.top_menu .menu {
+	padding: 5px 10px;
+	float: left;
+}
+
+.top_menu .menu .notify {
+	color: #fff;
+	font-weight: normal;
+	font-size: 10pt;
+	padding: 1px 6px;
+	border-radius: 3px;
+	background-color: #ffa500;
+}
+
+.top_menu .menu a {
+	font-weight: bold;
+	color: #ccc;
+	text-decoration: none;
+}
+
+.top_menu .menu a:hover {
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
+
+.reveal-modal h1 {
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+.modalcontainer {
+	width: 100%;
+	height: 300px;
+	overflow: auto;
+}
+
+.modalitem {
+	border-bottom: 1px dashed #ccc;
+}
+
+.modalbutton {
+	padding: 2px 6px;
+	background: #000;
+	color: #fff;
+	text-decoration: none;
+	font-size: 10pt;
+	font-weight: bold;
+	border-radius: 3px;
+	display: inline-block;
+}
+
+.modalbutton a, a .modalbutton {
+	text-decoration: none;
+}
+
+.modalitemnone {
+	width: 100%;
+	text-align: center;
+	height: 55px;
+	line-height: 55px;
+}
+
+.modalseemore {
+	width: 100%;
+	text-align: center;
+	height: 55px;
+	line-height: 55px;
+}
+
+.modalseemore a {
+	color: #333;
+	text-decoration: none;
+}
+
+.modalseemore a:hover {
+	color: #666;
+	text-decoration: none;
+}
+
+.modalloading {
+	background-image: url(../images/preloader.gif);
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 48px;
+	height: 55px;
+	width: 100%;
+}
+
+.item_unseen {
+	background-color: #ddd;
+}
+
+.name-change-input {
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 15pt;
+	width: 400px;
+}
+
+.name-change-submit {
+	margin-left: 4px;
+	padding: 7px 15px;
+	border-radius: 5px;
+	font-size: 15pt;
+	font-weight: bold;
+	color: #eee;
+	background-color: #111;
+	text-decoration: none;
+}
+.name-change-submit:hover {
+	color: #fff;
+	background-color: #222;
+}
+
+.name-change-panel, .warn-msg-panel {
+	width: 960px;
+	height: 670px;
+	overflow: hidden;
+	position: relative;
+}
+
+.ui-game-npc {
+	position: absolute;
+	right: -240px;
+	bottom: -405px;
+}
+.ui-game-paper {
+	position: absolute;
+	left: 60px;
+	top: 70px;
+}
+.name-change-form, .warn-msg-content {
+	position: absolute;
+	left: 125px;
+	top: 125px;
+	font-size: 15pt;
+}
+.name-change-form strong, .warn-msg-content strong {
+	font-size: 20pt;
+}
+.name-change-hint {
+	font-size: 10pt;
+}
+.name-change-msg {
+	font-size: 10pt;
+}
+#totel_de {
+	padding: 5px 10px;
+	float: right;
+	color: #fff;
+}
+#total_de span {
+	font-weight: bold;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Bash</skill>
+	<description>โจมตีเข้าใส่ศัตรูอย่างรุ่นแรง</description>
+	<icon>textures/characters/ep01/Axe/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>

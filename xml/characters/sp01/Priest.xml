@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- General information -->
+	<avatar>Priest</avatar>
+	<description>นักบุญจากแดนตะวันตก</description>
+	<icon>textures/characters/sp01/Priest/lobby/Icon.png</icon>
+	<status>textures/characters/sp01/Priest/lobby/Status.png</status>
+	<price 
+		gold="4900"
+		crystal="39"
+	/>
+	<!-- Abilities of character -->
+	<ability
+		strength="1"
+		agility="2"
+		intelligent="3"
+		will="4"
+		luck="2"
+		atkrange="200"
+		atktype="mag"
+	/>
+	<!-- offset position of an effects -->
+	<offset
+		floor="0"
+		effect="0"
+		damage="0"
+	/>
+	<!-- An animation information -->
+	<!-- Key 0 = idle, 1 = run, 2 = attack, 3 = lobby -->
+	<animation
+		key="0"
+		atlas="textures/characters/sp01/Priest/Idle_Sprite.xml"
+		texture="textures/characters/sp01/Priest/Idle_Sprite.png"
+		fps="8"
+	/>
+	<animation
+		key="1"
+		atlas="textures/characters/sp01/Priest/Run_Sprite.xml"
+		texture="textures/characters/sp01/Priest/Run_Sprite.png"
+		fps="12"
+	/>
+	<animation
+		key="2"
+		atlas="textures/characters/sp01/Priest/Attack_Sprite.xml"
+		texture="textures/characters/sp01/Priest/Attack_Sprite.png"
+		fps="8"
+	/>
+	<animation
+		key="3"
+		atlas="textures/characters/sp01/Priest/lobby/Priest_Sprite.xml"
+		texture="textures/characters/sp01/Priest/lobby/Priest_Sprite.png"
+		fps="8"
+	/>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextureAtlas>
+<SubTexture name="Idle_Front_01"  x="0" y="0" width="450" height="450" />
+<SubTexture name="Idle_Front_02"  x="450" y="0" width="450" height="450" />
+<SubTexture name="Idle_Front_03"  x="0" y="450" width="450" height="450" />
+<SubTexture name="Idle_Front_04"  x="450" y="450" width="450" height="450" />
+<SubTexture name="Idle_Front_05"  x="900" y="0" width="450" height="450" />
+<SubTexture name="Idle_Front_06"  x="900" y="450" width="450" height="450" />
+<SubTexture name="Idle_Lobby_01"  x="1350" y="0" width="300" height="300" />
+<SubTexture name="Idle_Lobby_02"  x="1350" y="300" width="300" height="300" />
+<SubTexture name="Idle_Lobby_03"  x="1650" y="0" width="300" height="300" />
+<SubTexture name="Idle_Lobby_04"  x="1650" y="300" width="300" height="300" />
+<SubTexture name="Idle_Lobby_05"  x="1350" y="600" width="300" height="300" />
+<SubTexture name="Idle_Lobby_06"  x="1650" y="600" width="300" height="300" />
+<SubTexture name="Idle_Lobby_07"  x="0" y="900" width="300" height="300" />
+<SubTexture name="Idle_Lobby_08"  x="0" y="1200" width="300" height="300" />
+<SubTexture name="Idle_Lobby_09"  x="300" y="900" width="300" height="300" />
+<SubTexture name="Idle_See_01"  x="300" y="1200" width="300" height="300" />
+<SubTexture name="Idle_See_02"  x="0" y="1500" width="300" height="300" />
+<SubTexture name="Idle_See_03"  x="600" y="900" width="300" height="300" />
+<SubTexture name="Idle_See_04"  x="900" y="900" width="300" height="300" />
+<SubTexture name="Idle_See_05"  x="300" y="1500" width="300" height="300" />
+<SubTexture name="Idle_See_06"  x="600" y="1200" width="300" height="300" />
+</TextureAtlas>

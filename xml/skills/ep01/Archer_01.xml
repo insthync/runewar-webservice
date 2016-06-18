@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<skill>Eagle's Eye</skill>
+	<description>ทักษะที่ทำให้ผู้ใช้มีสายตาคมกริบดั่งเหยี่ยว เพิ่มโอกาสโจมตีถูกจุดอ่อนของศัตรู 50%</description>
+	<icon>textures/characters/ep01/Archer/skill/01.png</icon>
+	<price 
+		gold="0"
+		crystal="0"
+	/>
+</root>
