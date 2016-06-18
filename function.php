@@ -1,8 +1,8 @@
 <?php
 	include "message.php";
 	// General
-	define('APPLICATION_PATH', 'http://www.insthync.com/runewar/');
-	define('CROSSDOMAIN_PATH', 'http://www.insthync.com/crossdomain.xml');
+	define('APPLICATION_PATH', 'http://127.0.0.1/runewar/');
+	define('CROSSDOMAIN_PATH', 'http://127.0.0.1/crossdomain.xml');
 	define('SERVER_IP', '127.0.0.1');
 	define('SERVER_PORT', '5501');
 
